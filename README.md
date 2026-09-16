@@ -1,7 +1,7 @@
 <h1 align="center">Hai, saya Idham Hastirou 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Backend+Developer;Sistem+Informasi+%40+Universitas+Merdeka+Malang;Belajar+bikin+kode+yang+nggak+bikin+server+nangis" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Sistem+Informasi+%40+Univ.+Merdeka+Malang;Belajar+bikin+kode+yang+nggak+bikin+server+nangis" alt="typing"/>
 </p>
 
 💻 Lulusan Sistem Informasi (angkatan 2022) yang fokus jadi **Backend Developer**, tapi tetap iseng nyemplung ke frontend & arsitektur sistem kalau lagi kepo.
@@ -46,8 +46,8 @@ Ngembangin **KopkarPay** — backend payment system untuk koperasi kampus: fitur
 
 ### 🌱 Lagi Dieksplor
 
-- DevOps & CI/CD pipeline
-- Swift
+- DevSecOps & CI/CD pipeline (buat bahan skripsi juga)
+- Security tooling: SAST (Semgrep, CodeQL) & DAST (OWASP ZAP)
 
 ### 📫 Kontak
 

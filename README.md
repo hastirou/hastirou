@@ -40,7 +40,7 @@ Ngembangin **KopkarPay** — backend payment system untuk koperasi kampus: fitur
 ### 🚀 Beberapa Proyek
 
 - **KopkarPay** — Backend developer, sistem koperasi (voucher, simpan pinjam, pembayaran digital)
-- **Pesona Malang** — Full-stack, 6 website destinasi wisata + backoffice
+- **Pesona Malang** — Monorepo Full-stack, 6 website destinasi wisata + backoffice
 - **Slimplan** — Backend developer (Hono.js), sistem manajemen penyimpanan terintegrasi kasir
 - **SISTA** — Platform Laravel untuk alur skripsi & tugas akhir mahasiswa
 

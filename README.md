@@ -12,7 +12,7 @@
 
 ### 🔥 Sedang Dikerjakan
 
-Ngembangin **KopkarPay** — backend payment system untuk koperasi kampus: fitur simpan pinjam, sistem voucher, manajemen PIN, sampai pembayaran digital. Ditulis dengan TypeScript + oRPC + Drizzle ORM di atas Supabase/PostgreSQL. Sekaligus jadi bahan skripsi soal DevSecOps & CI/CD-nya.
+Ngembangin **KopkarPay** — backend payment system untuk koperasi kampus: fitur simpan pinjam, sistem voucher, manajemen PIN, sampai pembayaran digital. Ditulis dengan TypeScript + oRPC + Drizzle ORM di atas Supabase/PostgreSQL.
 
 ### 🛠️ Tech Stack
 
@@ -46,8 +46,8 @@ Ngembangin **KopkarPay** — backend payment system untuk koperasi kampus: fitur
 
 ### 🌱 Lagi Dieksplor
 
-- DevSecOps & CI/CD pipeline (buat bahan skripsi juga)
-- Security tooling: SAST (Semgrep, CodeQL) & DAST (OWASP ZAP)
+- DevOps & CI/CD pipeline
+- Swift
 
 ### 📫 Kontak
 

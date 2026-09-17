@@ -1,18 +1,18 @@
-<h1 align="center">Hai, saya Idham Hastirou 👋</h1>
+<h1 align="center">Hi, i'm Idham Hastirou 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Sistem+Informasi+%40+Univ.+Merdeka+Malang;Belajar+bikin+kode+yang+nggak+bikin+server+nangis" alt="typing"/>
 </p>
 
-💻 Lulusan Sistem Informasi (angkatan 2022) yang fokus jadi **Backend Developer**, tapi tetap iseng nyemplung ke frontend & arsitektur sistem kalau lagi kepo.
+💻 An Information Systems graduate (class of 2022) who focuses on being a **Backend Developer**, but still dabbles in frontend and system architecture when I’m curious.
 
 📍 Based in Malang, Indonesia.
 
 ---
 
-### 🔥 Sedang Dikerjakan
+### 🔥 Latest Project
 
-Ngembangin **KopkarPay** — backend payment system untuk koperasi kampus: fitur simpan pinjam, sistem voucher, manajemen PIN, sampai pembayaran digital. Ditulis dengan TypeScript + oRPC + Drizzle ORM di atas Supabase/PostgreSQL.
+Developing **KopkarPay** — a backend payment system for campus cooperatives: featuring savings and loans, a voucher system, PIN management, and digital payments. Written in TypeScript + oRPC + Drizzle ORM on top of Supabase/PostgreSQL.
 
 ### 🛠️ Tech Stack
 
@@ -37,14 +37,14 @@ Ngembangin **KopkarPay** — backend payment system untuk koperasi kampus: fitur
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-### 🚀 Beberapa Proyek
+### 🚀 Few Project
 
-- **KopkarPay** — Backend developer, sistem koperasi (voucher, simpan pinjam, pembayaran digital)
-- **Pesona Malang** — Monorepo Full-stack, 6 website destinasi wisata + backoffice
-- **Slimplan** — Backend developer (Hono.js), sistem manajemen penyimpanan terintegrasi kasir
-- **SISTA** — Platform Laravel untuk alur skripsi & tugas akhir mahasiswa
+- **KopkarPay** — Backend developer, cooperative systems (vouchers, savings and loans, digital payments)
+- **Pesona Malang** — Full-stack monorepo, 6 tourism destination websites + back office
+- **Slimplan** — Backend developer (Hono.js), integrated point-of-sale inventory management system
+- **SISTA** — Laravel platform for managing student theses and final projects
 
-### 🌱 Lagi Dieksplor
+### 🌱 Currently Exploring
 
 - DevOps & CI/CD pipeline
 - Swift

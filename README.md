@@ -1,7 +1,7 @@
 <h1 align="center">Hi, i'm Idham Hastirou 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Sistem+Informasi+%40+Univ.+Merdeka+Malang;Belajar+bikin+kode+yang+nggak+bikin+server+nangis" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Information+Systems+%40+Univ.+Merdeka+Malang;Learn+to+write+code+that+doesn't+make+the+server+cry" alt="typing"/>
 </p>
 
 💻 An Information Systems graduate (class of 2022) who focuses on being a **Backend Developer**, but still dabbles in frontend and system architecture when I’m curious.
